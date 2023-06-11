@@ -46,7 +46,7 @@ The severity of a prompt injection attack can vary, influenced by factors like t
 
 ## Contributing
 
-Contributions are welcome! Please read the [contribution guidelines](link_to_the_contribution_guidelines) first.
+Contributions are welcome! Please read the [contribution guidelines](https://github.com/FonduAI/awesome-prompt-injection/blob/main/CONTRIBUTING.md) first.
 
 # License
 
