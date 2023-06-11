@@ -26,7 +26,9 @@ The severity of a prompt injection attack can vary, influenced by factors like t
 - [Prompt injection: What’s the worst that can happen?](https://simonwillison.net/2023/Apr/14/worst-that-can-happen/) - Great overview of Prompt Injection, part of a series
 - [ChatGPT Plugins: Data Exfiltration via Images & Cross Plugin Request Forgery](https://embracethered.com/blog/posts/2023/chatgpt-webpilot-data-exfil-via-markdown-injection/) - This post shows how a malicious website can take control of a ChatGPT chat session and exfiltrate the history of the conversation.
 - [Data exfiltration via Indirect Prompt Injection in ChatGPT](https://medium.com/@fondu.ai/data-exfiltration-via-indirect-prompt-injection-ab7c73feab0b) - This post explores two prompt injections in OpenAI’s browsing plugin for ChatGPT. These techniques exploit the input-dependent nature of AI conversational models, allowing an attacker to exfiltrate data through several prompt injection methods, posing significant privacy and security risks.
-- [Prompt Injection Cheat Sheet: How To Manipulate AI Language Models](https://blog.seclify.com/prompt-injection-cheat-sheet/) - A prompt injection cheat sheet for AI bot integrations
+- [Prompt Injection Cheat Sheet: How To Manipulate AI Language Models](https://blog.seclify.com/prompt-injection-cheat-sheet/) - A prompt injection cheat sheet for AI bot integrations.
+- [Prompt injection explained](https://simonwillison.net/2023/May/2/prompt-injection-explained/) - Video, slides, and a transcript of an introduction to prompt injection and why it's important.
+- [Adversarial Prompting](https://www.promptingguide.ai/risks/adversarial/) - A guide on the various types of adversarial prompting and ways to mitigate them.
 
 ## Tutorials
 
