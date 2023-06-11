@@ -7,7 +7,6 @@ A curated list of awesome prompt injection resources. Inspired by the [awesome](
 - [Introduction](#introduction)
 - [Articles and Blog posts](#articles-and-blog-posts)
 - [Tutorials](#tutorials)
-- [Tools and Libraries](#tools-and-libraries)
 - [Research Papers](#research-papers)
 - [CTF](#ctf)
 - [Community](#community)
