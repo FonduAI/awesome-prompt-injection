@@ -37,6 +37,8 @@ The severity of a prompt injection attack can vary, influenced by factors like t
 
 - [Not what you've signed up for: Compromising Real-World LLM-Integrated Applications with Indirect Prompt Injection](https://arxiv.org/abs/2302.12173) - This paper explores the concept of Indirect Prompt Injection attacks on Large Language Models (LLMs) through their integration with various applications. It identifies significant security risks, including remote data theft and ecosystem contamination, present in both real-world and synthetic applications.
 
+- [Universal and Transferable Adversarial Attacks on Aligned Language Models](https://arxiv.org/abs/2307.15043) - This paper introduces a simple and efficient attack method that enables aligned language models to generate objectionable content with high probability, highlighting the need for improved prevention techniques in large language models. The generated adversarial prompts are found to be transferable across various models and interfaces, raising important concerns about controlling objectionable information in such systems.
+
 ## CTF
 
 - [Gandalf](https://gandalf.lakera.ai/) - Your goal is to make Gandalf reveal the secret password for each level. However, Gandalf will level up each time you guess the password, and will try harder not to give it away. Can you beat level 7? (There is a bonus level 8)
