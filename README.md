@@ -1,6 +1,6 @@
 # Awesome Prompt Injection [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated list of awesome prompt injection resources. Inspired by the [awesome](https://github.com/sindresorhus/awesome) list project.
+Learn about a type of vulnerability that specifically targets machine learning models. Inspired by the [awesome](https://github.com/sindresorhus/awesome) list project.
 
 **Table of Contents**
 
