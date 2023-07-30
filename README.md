@@ -8,7 +8,7 @@ Learn about a type of vulnerability that specifically targets machine learning m
 - [Articles and Blog posts](#articles-and-blog-posts)
 - [Tutorials](#tutorials)
 - [Research Papers](#research-papers)
-- [Tools](#Tools)
+- [Tools](#tools)
 - [CTF](#ctf)
 - [Community](#community)
 
@@ -28,7 +28,7 @@ The severity of a prompt injection attack can vary, influenced by factors like t
 - [Prompt Injection Cheat Sheet: How To Manipulate AI Language Models](https://blog.seclify.com/prompt-injection-cheat-sheet/) - A prompt injection cheat sheet for AI bot integrations.
 - [Prompt injection explained](https://simonwillison.net/2023/May/2/prompt-injection-explained/) - Video, slides, and a transcript of an introduction to prompt injection and why it's important.
 - [Adversarial Prompting](https://www.promptingguide.ai/risks/adversarial/) - A guide on the various types of adversarial prompting and ways to mitigate them.
-- [Don’t you (forget NLP): Prompt injection with control characters in ChatGPT](https://dropbox.tech/machine-learning/prompt-injection-with-control-characters-openai-chatgpt-llm) - A look into how to achieve prompt injection from control characters from Dropbox.
+- [Don't you (forget NLP): Prompt injection with control characters in ChatGPT](https://dropbox.tech/machine-learning/prompt-injection-with-control-characters-openai-chatgpt-llm) - A look into how to achieve prompt injection from control characters from Dropbox.
 
 ## Tutorials
 
