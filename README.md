@@ -8,6 +8,7 @@ Learn about a type of vulnerability that specifically targets machine learning m
 - [Articles and Blog posts](#articles-and-blog-posts)
 - [Tutorials](#tutorials)
 - [Research Papers](#research-papers)
+- [Tools](#Tools)
 - [CTF](#ctf)
 - [Community](#community)
 
@@ -27,16 +28,22 @@ The severity of a prompt injection attack can vary, influenced by factors like t
 - [Prompt Injection Cheat Sheet: How To Manipulate AI Language Models](https://blog.seclify.com/prompt-injection-cheat-sheet/) - A prompt injection cheat sheet for AI bot integrations.
 - [Prompt injection explained](https://simonwillison.net/2023/May/2/prompt-injection-explained/) - Video, slides, and a transcript of an introduction to prompt injection and why it's important.
 - [Adversarial Prompting](https://www.promptingguide.ai/risks/adversarial/) - A guide on the various types of adversarial prompting and ways to mitigate them.
+- [Don’t you (forget NLP): Prompt injection with control characters in ChatGPT](https://dropbox.tech/machine-learning/prompt-injection-with-control-characters-openai-chatgpt-llm) - A look into how to achieve prompt injection from control characters from Dropbox.
 
 ## Tutorials
 
 - [Prompt Injection](https://learnprompting.org/docs/prompt_hacking/injection) - Prompt Injection tutorial from Learn Prompting.
+- [AI Read Teaming from Google](https://services.google.com/fh/files/blogs/google_ai_red_team_digital_final.pdf) - Google's red team walkthrough of hacking AI systems.
 
 ## Research Papers
 
 - [Not what you've signed up for: Compromising Real-World LLM-Integrated Applications with Indirect Prompt Injection](https://arxiv.org/abs/2302.12173) - This paper explores the concept of Indirect Prompt Injection attacks on Large Language Models (LLMs) through their integration with various applications. It identifies significant security risks, including remote data theft and ecosystem contamination, present in both real-world and synthetic applications.
 
 - [Universal and Transferable Adversarial Attacks on Aligned Language Models](https://arxiv.org/abs/2307.15043) - This paper introduces a simple and efficient attack method that enables aligned language models to generate objectionable content with high probability, highlighting the need for improved prevention techniques in large language models. The generated adversarial prompts are found to be transferable across various models and interfaces, raising important concerns about controlling objectionable information in such systems.
+
+## Tools
+- [Token Turbulenz](https://github.com/wunderwuzzi23/token-turbulenz) - A fuzzer to automate looking for possible Prompt Injections.
+- [Garak](https://github.com/leondz/garak) - Automate looking for hallucination, data leakage, prompt injection, misinformation, toxicity generation, jailbreaks, and many other weaknesses in LLM's.
 
 ## CTF
 
