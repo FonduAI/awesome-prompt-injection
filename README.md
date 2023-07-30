@@ -2,7 +2,7 @@
 
 Learn about a type of vulnerability that specifically targets machine learning models. Inspired by the [awesome](https://github.com/sindresorhus/awesome) list project.
 
-**Table of Contents**
+**Contents**
 
 - [Introduction](#introduction)
 - [Articles and Blog posts](#articles-and-blog-posts)
