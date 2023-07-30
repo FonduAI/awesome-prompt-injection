@@ -21,7 +21,7 @@ The severity of a prompt injection attack can vary, influenced by factors like t
 
 ## Articles and Blog posts
 
-- [Prompt injection: What’s the worst that can happen?](https://simonwillison.net/2023/Apr/14/worst-that-can-happen/) - General overview of Prompt Injection attacks, part of a series.
+- [Prompt injection: What's the worst that can happen?](https://simonwillison.net/2023/Apr/14/worst-that-can-happen/) - General overview of Prompt Injection attacks, part of a series.
 - [ChatGPT Plugins: Data Exfiltration via Images & Cross Plugin Request Forgery](https://embracethered.com/blog/posts/2023/chatgpt-webpilot-data-exfil-via-markdown-injection/) - This post shows how a malicious website can take control of a ChatGPT chat session and exfiltrate the history of the conversation.
 - [Data exfiltration via Indirect Prompt Injection in ChatGPT](https://medium.com/@fondu.ai/data-exfiltration-via-indirect-prompt-injection-ab7c73feab0b) - This post explores two prompt injections in OpenAI's browsing plugin for ChatGPT. These techniques exploit the input-dependent nature of AI conversational models, allowing an attacker to exfiltrate data through several prompt injection methods, posing significant privacy and security risks.
 - [Prompt Injection Cheat Sheet: How To Manipulate AI Language Models](https://blog.seclify.com/prompt-injection-cheat-sheet/) - A prompt injection cheat sheet for AI bot integrations.
@@ -47,6 +47,6 @@ The severity of a prompt injection attack can vary, influenced by factors like t
 
 - [Learn Prompting](https://discord.com/invite/learn-prompting) - Discord server from Learn Prompting.
 
-## Contribute
+## Contributing
 
 Contributions are welcome! Please read the [contribution guidelines](https://github.com/FonduAI/awesome-prompt-injection/blob/main/CONTRIBUTING.md) first.
