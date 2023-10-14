@@ -29,7 +29,7 @@ The severity of a prompt injection attack can vary, influenced by factors like t
 - [Prompt injection explained](https://simonwillison.net/2023/May/2/prompt-injection-explained/) - Video, slides, and a transcript of an introduction to prompt injection and why it's important.
 - [Adversarial Prompting](https://www.promptingguide.ai/risks/adversarial/) - A guide on the various types of adversarial prompting and ways to mitigate them.
 - [Don't you (forget NLP): Prompt injection with control characters in ChatGPT](https://dropbox.tech/machine-learning/prompt-injection-with-control-characters-openai-chatgpt-llm) - A look into how to achieve prompt injection from control characters from Dropbox.
-- [Testing the Limits of Prompt Injection Defence](https://blog.fondu.ai/posts/prompt-injection-defence/) - A practical discussion about the unique complexities of securing LLMs from prompt injection attacks
+- [Testing the Limits of Prompt Injection Defence](https://blog.fondu.ai/posts/prompt-injection-defence/) - A practical discussion about the unique complexities of securing LLMs from prompt injection attacks.
 
 ## Tutorials
 
@@ -43,12 +43,14 @@ The severity of a prompt injection attack can vary, influenced by factors like t
 - [Universal and Transferable Adversarial Attacks on Aligned Language Models](https://arxiv.org/abs/2307.15043) - This paper introduces a simple and efficient attack method that enables aligned language models to generate objectionable content with high probability, highlighting the need for improved prevention techniques in large language models. The generated adversarial prompts are found to be transferable across various models and interfaces, raising important concerns about controlling objectionable information in such systems.
 
 ## Tools
+
 - [Token Turbulenz](https://github.com/wunderwuzzi23/token-turbulenz) - A fuzzer to automate looking for possible Prompt Injections.
 - [Garak](https://github.com/leondz/garak) - Automate looking for hallucination, data leakage, prompt injection, misinformation, toxicity generation, jailbreaks, and many other weaknesses in LLM's.
 
 ## CTF
 
-- [Gandalf](https://gandalf.lakera.ai/) - Your goal is to make Gandalf reveal the secret password for each level. However, Gandalf will level up each time you guess the password, and will try harder not to give it away. Can you beat level 7? (There is a bonus level 8)
+- [Promptalanche](https://ctf.fondu.ai/) - As well as traditional challenges, this CTF also introduce scenarios that mimic agents in real-world applications.
+- [Gandalf](https://gandalf.lakera.ai/) - Your goal is to make Gandalf reveal the secret password for each level. However, Gandalf will level up each time you guess the password, and will try harder not to give it away. Can you beat level 7? (There is a bonus level 8).
 - [ChatGPT with Browsing is drunk! There is more to it than you might expect at first glance](https://twitter.com/KGreshake/status/1664420397117317124) - This riddle requires you to have ChatGPT Plus access and enable the Browsing mode in Settings->Beta Features.
 
 ## Community
