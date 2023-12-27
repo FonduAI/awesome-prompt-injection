@@ -4,16 +4,13 @@ Learn about a type of vulnerability that specifically targets machine learning m
 
 ## **Contents**
 
-- [Awesome Prompt Injection ](#awesome-prompt-injection-)
-  - [**Contents**](#contents)
-  - [Introduction](#introduction)
-  - [Articles and Blog posts](#articles-and-blog-posts)
-  - [Tutorials](#tutorials)
-  - [Research Papers](#research-papers)
-  - [Tools](#tools)
-  - [CTF](#ctf)
-  - [Community](#community)
-  - [Contributing](#contributing)
+- [Introduction](#introduction)
+- [Articles and Blog posts](#articles-and-blog-posts)
+- [Tutorials](#tutorials)
+- [Research Papers](#research-papers)
+- [Tools](#tools)
+- [CTF](#ctf)
+- [Community](#community)
 
 ## Introduction
 
